@@ -14,7 +14,7 @@ The dataset used for this project is sourced from Kaggel. It consists of 1338 en
 - Charges (target)
 
 ## Usage
-Run the Jupyter notebook Health_Insurance_Prediction.ipynb to see the data preprocessing, model training, evaluation, and predictions.
+Run the Jupyter notebook "Health_Insurance_Prediction.ipynb" to see the data preprocessing, model training, evaluation, and predictions.
 Modify the notebook as needed for experimenting with different models, features, or parameters.
 
 ## Model Evaluation
